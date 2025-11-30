@@ -12,6 +12,9 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.lucap.dailyrise",
+      "versionCode": 1, // <-- obbligatorio per Play Store
+      "permissions": [], // <-- niente permessi extra
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
